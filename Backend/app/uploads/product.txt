@@ -1,0 +1,13 @@
+Month,Product,Sales
+1,Mobile,50
+2,Mobile,70
+3,Mobile,90
+4,Mobile,120
+5,Mobile,150
+6,Mobile,170
+7,Mobile,190
+8,Mobile,210
+9,Mobile,250
+10,Mobile,270
+11,Mobile,300
+12,Mobile,350
